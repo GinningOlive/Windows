@@ -74,7 +74,7 @@ Return
 Return
 
 #+Enter::
-	Run "%A_WorkingDir%\Apps\Firefox"
+	Run "%A_WorkingDir%\..\Apps\Firefox"
 Return
 
 Insert::
