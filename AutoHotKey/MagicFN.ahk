@@ -73,7 +73,7 @@ Return
 	Run "%A_WorkingDir%\..\Apps\Terminal"
 Return
 
-#+Enter::
+#W::
 	Run "%A_WorkingDir%\..\Apps\Firefox"
 Return
 
